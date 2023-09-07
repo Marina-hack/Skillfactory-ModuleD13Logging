@@ -1,0 +1,141 @@
+2023-09-01 13:35:46,389 %(levelname)s %(message)s
+2023-09-01 13:36:21,014 %(levelname)s %(message)s
+2023-09-01 13:36:22,079 %(levelname) %(message)
+2023-09-01 13:36:52,621 %(levelname) %(message)
+2023-09-01 13:36:53,724 %INFO %Watching for file changes with StatReloader
+2023-09-01 13:37:47,580 %INFO %C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading.
+INFO Watching for file changes with StatReloader 2023-09-01 13:37:48,704 
+INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 13:44:10,452 
+ INFO Watching for file changes with StatReloader 2023-09-01 13:44:11,467 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 13:44:55,561 
+ INFO Watching for file changes with StatReloader 2023-09-01 13:47:44,910 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 13:52:24,385 
+ INFO Watching for file changes with StatReloader 2023-09-01 13:54:49,200 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 13:57:55,658 
+ INFO Watching for file changes with StatReloader 2023-09-01 13:57:56,699 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 14:04:05,733 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:09:16,619 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 15:10:50,407 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:10:52,237 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 15:22:09,961 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:22:11,375 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 15:23:29,926 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:25:17,022 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 15:26:31,717 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:31:21,794 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 15:31:35,704 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:31:36,818 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\news\forms.py changed, reloading. 2023-09-01 15:32:18,227 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:32:19,273 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\news\forms.py changed, reloading. 2023-09-01 15:32:43,785 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:32:44,731 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\news\forms.py changed, reloading. 2023-09-01 15:33:31,964 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:33:32,858 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:34:05,583 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\news\forms.py changed, reloading. 2023-09-01 15:46:24,119 
+ INFO Watching for file changes with StatReloader 2023-09-01 15:46:24,986 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 16:15:31,830 
+ %(levelname)s Watching for file changes with StatReloader 2023-09-01 17:56:29,998 
+ %(levelname)s C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 17:57:20,117 
+ INFO Watching for file changes with StatReloader 2023-09-01 17:57:21,241 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. 2023-09-01 18:08:51,208 
+ INFO Watching for file changes with StatReloader  2023-09-01 20:38:23,835 
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading.  2023-09-01 20:41:59,111 
+ INFO Watching for file changes with StatReloader  2023-09-01 20:41:59,824 C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading.  2023-09-01 20:44:14,286 C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py
+ INFO Watching for file changes with StatReloader C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 20:44:14,971
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 21:12:11,773
+ INFO Watching for file changes with StatReloader C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 21:12:13,002
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 21:15:06,256
+ INFO Watching for file changes with StatReloader C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 21:15:07,256
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 21:32:14,146
+ INFO Watching for file changes with StatReloader C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 21:32:15,386
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 21:45:42,312
+ INFO Watching for file changes with StatReloader C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 21:45:43,514
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 21:56:18,649
+ INFO Watching for file changes with StatReloader C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 21:56:19,818
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\news\forms.py changed, reloading. C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 22:07:16,927
+ INFO Watching for file changes with StatReloader C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 22:07:17,989
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 22:09:26,214
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 22:09:27,233
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-01 22:11:06,309
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 13:18:37,149
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 13:34:03,660
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 13:35:50,800
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 15:42:19,461
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 15:42:20,597
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 15:44:08,646
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 15:44:09,586
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 15:44:44,437
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 15:44:45,351
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 15:58:27,984
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 15:58:29,194
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:00:28,914
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:00:30,069
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:01:13,418
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:01:14,374
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:03:19,997
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:03:56,591
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:10:12,766
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:10:13,756
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:14:19,986
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:14:21,194
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\news\urls.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:15:11,840
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:15:12,986
+ INFO "GET /news/ HTTP/1.1" 200 8644 basehttpC:\Users\ketbe\venv\Lib\site-packages\django\core\servers\basehttp.py 2023-09-05 16:15:18,221
+ INFO "GET /static/css/styles.css HTTP/1.1" 304 0 basehttpC:\Users\ketbe\venv\Lib\site-packages\django\core\servers\basehttp.py 2023-09-05 16:15:18,309
+ WARNING Not Found: /favicon.ico logC:\Users\ketbe\venv\Lib\site-packages\django\utils\log.py 2023-09-05 16:15:18,953
+ WARNING "GET /favicon.ico HTTP/1.1" 404 2327 basehttpC:\Users\ketbe\venv\Lib\site-packages\django\core\servers\basehttp.py 2023-09-05 16:15:18,953
+ WARNING Not Found: /articles logC:\Users\ketbe\venv\Lib\site-packages\django\utils\log.py 2023-09-05 16:15:24,804
+ WARNING "GET /articles HTTP/1.1" 404 2318 basehttpC:\Users\ketbe\venv\Lib\site-packages\django\core\servers\basehttp.py 2023-09-05 16:15:24,805
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\news\urls.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:15:47,377
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:15:48,530
+ WARNING Not Found: /articles logC:\Users\ketbe\venv\Lib\site-packages\django\utils\log.py 2023-09-05 16:15:55,673
+ WARNING "GET /articles HTTP/1.1" 404 2318 basehttpC:\Users\ketbe\venv\Lib\site-packages\django\core\servers\basehttp.py 2023-09-05 16:15:55,673
+ WARNING Not Found: /articles logC:\Users\ketbe\venv\Lib\site-packages\django\utils\log.py 2023-09-05 16:15:57,899
+ WARNING "GET /articles HTTP/1.1" 404 2318 basehttpC:\Users\ketbe\venv\Lib\site-packages\django\core\servers\basehttp.py 2023-09-05 16:15:57,899
+ WARNING Not Found: /articles logC:\Users\ketbe\venv\Lib\site-packages\django\utils\log.py 2023-09-05 16:16:01,168
+ WARNING "GET /articles HTTP/1.1" 404 2318 basehttpC:\Users\ketbe\venv\Lib\site-packages\django\core\servers\basehttp.py 2023-09-05 16:16:01,170
+ INFO "GET /articles/2 HTTP/1.1" 301 0 basehttpC:\Users\ketbe\venv\Lib\site-packages\django\core\servers\basehttp.py 2023-09-05 16:16:21,246
+ INFO "GET /articles/2/ HTTP/1.1" 200 2247 basehttpC:\Users\ketbe\venv\Lib\site-packages\django\core\servers\basehttp.py 2023-09-05 16:16:21,292
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:23:50,875
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:32:15,039
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:41:10,219
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:41:11,180
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:52:08,192
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:52:09,296
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\news\urls.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:53:05,349
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:53:06,381
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\news\urls.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:54:50,526
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-05 16:54:51,502
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-06 13:55:44,728
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-06 13:56:30,412
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-06 13:56:31,649
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-06 13:57:00,199
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-06 13:57:01,214
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-06 14:19:58,075
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-06 14:19:59,353
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-06 14:36:57,990
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-06 14:37:00,140
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-07 16:46:59,239
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-07 16:52:15,464
+ INFO Watching for file changes with StatReloader autoreload 2023-09-07 16:52:16,676
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreload 2023-09-07 16:53:01,004
+ INFO Watching for file changes with StatReloader autoreload C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-07 16:53:02,147
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreload C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-07 17:03:48,267
+ INFO Watching for file changes with StatReloader autoreload C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-07 17:04:24,072
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreload C:\Users\ketbe\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-07 17:09:27,891
+ INFO Watching for file changes with StatReloader autoreload 2023-09-07 17:09:29,010
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreload 2023-09-07 17:18:12,020
+ INFO Watching for file changes with StatReloader autoreload 2023-09-07 17:18:13,005
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreload 2023-09-07 17:26:54,730
+ INFO Watching for file changes with StatReloader autoreload 2023-09-07 17:26:55,808
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreload 2023-09-07 20:25:25,481
+ INFO Watching for file changes with StatReloader autoreload 2023-09-07 20:25:26,493
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreload 2023-09-07 20:51:44,316
+ INFO Watching for file changes with StatReloader autoreload 2023-09-07 20:51:53,573
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreload 2023-09-07 20:51:58,772
+ INFO Watching for file changes with StatReloader autoreload 2023-09-07 20:51:59,863
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreload 2023-09-07 20:58:22,472
+ INFO Watching for file changes with StatReloader autoreload 2023-09-07 20:58:23,550
+ INFO C:\Users\ketbe\PycharmProjects\Project_Django1\NewsPaper\NewsPaper\settings.py changed, reloading. autoreload 2023-09-07 21:20:37,352
